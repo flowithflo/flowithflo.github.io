@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Flow with Flora
+subtitle: with the subtile movment in guiding your inner lymphatic stream 
 ---
 
 My name is Inigo Montoya. I have the following qualities:
