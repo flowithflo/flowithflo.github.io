@@ -20,9 +20,9 @@ author: FLORA HUNG
 ###############################################
 
 navbar-links:
-About Me: "aboutme"
-What is MLD?: "mld"
-Experiences: "experience"
+  About Me: "aboutme"
+  What is MLD?: "mld"
+  Experiences: "experience"
 
 ################
 # --- Logo --- #
