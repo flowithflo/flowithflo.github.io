@@ -1,20 +1,16 @@
 ---
 layout: page
-title: Flow with Flora
+title: flow with flo
 subtitle: ALWAYS feel LIKE IT IS THE BEST DAY OF YOUR LIFE
 ---
 
-Nice to see you here 
+Nice to see you here! My name is Flora. 
 
-I'm Flora & I'm in training currently to become a certified lymphology therapist (by mid-April 2025)...
 
-- an direct effect on your lymphatic system that 
-- enhancing upon with your immune system
-- enhancing upon with your cnetral nervou system
+Dr. Vodder’s Manual Lymph Drainage  is the method of my present training at Myos Opleidingen6 which I am learning and following, aiming to become a certified lymphology therapist (by mid-April 2025). Thank You for your support and being part of my learning journey, this will not only enhance on my theoretical expertise relating to the lymphatic system but also as well as practical skills to perform specific techniques. Regularly re-training will be part of my continuous professional developments with the purpose of keep up my expertise and to learn new techniques to be able to treat (future) patients with lymphoedema (swelling) & lipoedema (fatty tissue) issues. 
 
-It is with the subtile movments,
-in guiding your inner lymphatic stream back to its balance
-
+It is with the subtile movments, in guiding your inner lymphatic stream back to its balance
+Happy Lymph = Healthier Immunity
 
 
 ### My story
