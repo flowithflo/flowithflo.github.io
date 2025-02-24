@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Flow with Flora
-subtitle: ALWAYS feel LIKE IT IS THE splendid DAY OF YOUR LIFE
+title: Self-CARE
+subtitle: THE PROCESS OF planting seeds AND habits
 ---
 
-Nice to have you here! My name is Flora. 
 
 ### What brings me here
 
