@@ -1,15 +1,18 @@
 ---
 layout: page
 title: Flow with Flora
-subtitle: with the subtile movment in guiding your inner lymphatic stream 
+subtitle: AWALYS feel LIKE IT IS THE BEST DAY OF YOUR LIFE
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Nice to see you here
+I'm Flora & I work 
+- directly with your lyphatic system 
+- upon with your immune system
+- upon with your cnetral nervou system
+It is with the subtile movments,
+in guiding your inner lymphatic stream back to its balance
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
