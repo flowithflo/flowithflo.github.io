@@ -20,9 +20,10 @@ author: FLORA HUNG
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   What is MLD?: "mld"
   Experiences: "experience"
+  About Me: "aboutme"
+  
 
 ################
 # --- Logo --- #
@@ -49,7 +50,7 @@ title-img: /assets/img/flowithflow.jpg
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "florahung31@gmail.com"
-rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook:
 # github: daattali
 # twitter: daattali
@@ -98,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -151,8 +152,8 @@ footer-hover-col: "#0085A1"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
-# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
