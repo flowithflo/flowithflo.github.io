@@ -19,7 +19,7 @@ A +/- 30~40 minutes-per-session is usually counselled as a first-time participan
 
 Simple self-care at home can be done by breathing deeply4 and exercising5.
 (Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
-A speedy understanding of Lymphatic system - https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s
+A speedy understanding of Lymphatic system - [link text](https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s)
 
 
 
