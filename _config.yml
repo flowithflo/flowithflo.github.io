@@ -1,14 +1,3 @@
-###########################################################
-### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
-###########################################################
-
-############################
-# --- Required options --- #
-############################
-
 # Name of website
 title: The Art of Creating Living
 
@@ -84,7 +73,7 @@ telephone: +31640965689
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
