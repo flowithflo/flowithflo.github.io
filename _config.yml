@@ -10,19 +10,19 @@
 ############################
 
 # Name of website
-title: MLD
+title: The Art of Creating Living
 
 # Your name to show in the footer
-author: Flora Hung
+author: FLORA HUNG
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  What is MLD?: "mld"
-  Experiences: "experience"
+About Me: "aboutme"
+What is MLD?: "mld"
+Experiences: "experience"
 Contact: "contact"
 
 ################
@@ -51,12 +51,12 @@ round-avatar: true
 social-network-links:
   email: "florahung31@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook:
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+# facebook:
+# github: daattali
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: "@daattali"
+# whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
