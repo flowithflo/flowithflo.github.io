@@ -23,7 +23,6 @@ navbar-links:
 About Me: "aboutme"
 What is MLD?: "mld"
 Experiences: "experience"
-Contact: "contact"
 
 ################
 # --- Logo --- #
@@ -31,14 +30,14 @@ Contact: "contact"
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/flowithflow.jpg"
+# avatar: "/assets/img/flowithflow.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/flowithflow.jpg
 
 
 #####################################
@@ -50,7 +49,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "florahung31@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook:
 # github: daattali
 # twitter: daattali
@@ -65,7 +64,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+   telephone: +31640965689
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -92,9 +91,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
