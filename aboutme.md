@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Flow with Flora
-subtitle: AWALYS feel LIKE IT IS THE BEST DAY OF YOUR LIFE
+subtitle: ALWAYS feel LIKE IT IS THE BEST DAY OF YOUR LIFE
 ---
 
-Nice to see you here
-I'm Flora & I work 
-- directly with your lyphatic system 
-- upon with your immune system
-- upon with your cnetral nervou system
+Nice to see you here 
+
+I'm Flora & I'm in training currently to become a certified lymphology therapist (by mid-April 2025)...
+
+- an direct effect on your lymphatic system that 
+- enhancing upon with your immune system
+- enhancing upon with your cnetral nervou system
+
 It is with the subtile movments,
 in guiding your inner lymphatic stream back to its balance
 
