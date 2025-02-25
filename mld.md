@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General information of MLD
+title: General information
 subtitle: It is with the subtitle movements, in guiding your inner lymphatic stream back to its balance
 ---
 <br>
