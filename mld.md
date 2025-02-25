@@ -7,7 +7,7 @@ subtitle: It is with the subtitle movements, in guiding your inner lymphatic str
 ### Manuel lymph drainage
 <br>
 Developed in 1930s, by Dr. Emil Voldder2 (Danish physician). 
-
+<br>
 A very gentle form of slow method that is extremely light skin -stretch physiotherapy hand technique, 
 which applies systematic and rhythmically with the pumping performance in one direction movement. 
 Repeating the movements several times results in an increased flow rate that will improve the lymph vessels to promote 
