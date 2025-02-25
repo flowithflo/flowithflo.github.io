@@ -9,7 +9,7 @@ subtitle: THE PROCESS OF planting seeds AND habits
 
 The aspiration engaged through my own self-care journey, after having followed a method of dry brushing for some years from Ayurvedic technique to improve my body's lymphatic flow, it shows not only neurological health advantages, immunity responses benefits and more. 
 It has led me keenly in further learning wanting to know how our lymphatic system works.
-In 2024, I began two parallel studies in the program of lymph therapy  [MYOS Opleidingen, the accredited training institute in Utrecht]([https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s](https://myosopleidingen.nl/opleiding/lymfedrainage/)) and the program of basic medical knowledge, to widely broadening my horizon in human anatomy, physiology and pathology [TCMA, Traditional Chinese Medicine Academie Nederland](https://tcma.nl/medische-basiskennis/). Both works hand in hand for a fuller deep understanding of how our body functions and how to work with for the best bet.
+In 2024, I began two parallel studies in the program of lymph therapy  [MYOS Opleidingen, the accredited training institute in Utrecht(https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s](https://myosopleidingen.nl/opleiding/lymfedrainage/)] and the program of basic medical knowledge, to widely broadening my horizon in human anatomy, physiology and pathology [TCMA, Traditional Chinese Medicine Academie Nederland](https://tcma.nl/medische-basiskennis/). Both works hand in hand for a fuller deep understanding of how our body functions and how to work with for the best bet.
 <br>
 "Dr. Vodder’s Manual Lymph Drainage is the method of my present training at Myos Opleidingen that I am learning and following, aiming to become a certified lymphology therapist (by mid-April 2025)."
 <br>
