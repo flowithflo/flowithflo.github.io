@@ -35,8 +35,12 @@ A set of three treatments primarily, once in a week or ten days as sequence, all
 Simple self-care at home can be done by breathing deeply4 and exercising5.
 (Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
 
-A speedy understanding of Lymphatic system - [Lymphatic System: Crash Course Anatomy & Physiology #44](https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s)
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
