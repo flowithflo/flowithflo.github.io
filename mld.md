@@ -34,13 +34,11 @@ A set of three treatments primarily, once in a week or ten days as sequence, all
 
 
 Simple self-care at home can be done by breathing deeply4 and exercising5.
+
 (Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
-
-
 <br>
 <br>
 <br>
-
 REFERENCES
 1.	https://www.physio-pedia.com/Manual_Lymphatic_Drainage?ref=healthvery.com
 2.	https://vodderschool.com/emil_vodder_life_work_article
