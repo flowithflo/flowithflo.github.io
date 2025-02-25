@@ -5,7 +5,6 @@ subtitle: General information
 ---
 <br>
 ### Manuel lymph drainage
-<br>
 Developed in 1930s, by Dr. Emil Voldder2 (Danish physician). 
 <br>
 A very gentle form of slow method that is extremely light skin -stretch physiotherapy hand technique, 
@@ -42,11 +41,6 @@ Simple self-care at home can be done by breathing deeply4 and exercising5.
 <br>
 <br>
 <br>
-<br>
-<br>
-
-
-
 
 REFERENCES
 1.	https://www.physio-pedia.com/Manual_Lymphatic_Drainage?ref=healthvery.com
