@@ -17,3 +17,8 @@ I'd also like to share how you can help to take care of your lymph at home.
 
 So, let's Go with FLO-W!
 The FLOW of your inner stream!
+<br>
+<br>
+A speedy understanding of Lymphatic system - [Lymphatic System: Crash Course Anatomy & Physiology #44](https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s) 
+**Crash Course is awesome**
+
