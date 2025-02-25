@@ -33,9 +33,8 @@ Moving toxins through the body isn’t always comfortable at first since lymph w
 A set of three treatments primarily, once in a week or ten days as sequence, allowing the ability to heal and your immune system to respond. 
 
 
-Simple self-care at home can be done by breathing deeply4 and exercising5.
-
-(Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
+Simple self-care at home can be done by ***breathing deeply** (Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
+and **exercising**.
 <br>
 <br>
 <br>
