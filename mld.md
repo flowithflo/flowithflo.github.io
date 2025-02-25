@@ -3,7 +3,6 @@ layout: page
 title: It is with the subtile movements, in guiding your inner lymphatic stream back to its balance
 subtitle: General information 
 ---
-<br>
 ### Manuel lymph drainage
 Developed in 1930s, by Dr. Emil Voldder2 (Danish physician). 
 <br>
