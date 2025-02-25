@@ -4,7 +4,7 @@ title: It is with the subtile movements, in guiding your inner lymphatic stream 
 subtitle: General information 
 ---
 ### Manuel lymph drainage
-Developed in 1930s, by Dr. Emil Voldder2 (Danish physician). 
+Developed in 1930s, by [Dr. Emil Voldder](https://vodderschool.com/emil_vodder_life_work_article) (Danish physician). 
 <br>
 A very gentle form of slow method that is extremely light skin -stretch physiotherapy hand technique, 
 which applies systematic and rhythmically with the pumping performance in one direction movement. 
@@ -15,7 +15,7 @@ Lymph in Latin is as Lympha, it means clear water
 Lymph is as the unseen protector in our body, like the security guard, constantly checking the outside invaders. 
 The lymphatic system is one of eleven organ systems in our body, it runs through like many small streams flowing towards a river. 
 It has a vast circulatory network and is second to our cardiovascular system. It is an integral part of our immune system as well as the nervous system, 
-the digestive system and the neurological system. 
+the digestive system and the neurological system. [THE BOOK of LYMPH by Lisa Levitt Gainsley](https://www.thelymphaticmessage.com/book)
 
 The lymph nodes are found in most our body joints (allow movement in one direction of our body towards our heart), 
 like in our head, neck, armpits and other parts of our body, where each opening treatment begins at neck area. 
@@ -32,19 +32,11 @@ Moving toxins through the body isn’t always comfortable at first since lymph w
 (Usually, the effect of lymphatic drainage lasts about 24 hours.) 
 A set of three treatments primarily, once in a week or ten days as sequence, allowing the ability to heal and your immune system to respond. 
 
+At home, a [manuel lymphatic](https://www.physio-pedia.com/Manual_Lymphatic_Drainage?ref=healthvery.com) improvment can be part of your daily routine simply by [**breathing deeply**](https://lymphaticyoga.net/deep-breathing-and-the-lymphatic-system/) (Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
+and [**exercising**](https://understoryhealing.com/exercises-for-lymphatic-system/).
 
-Simple self-care at home can be done by **breathing deeply** (Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
-and **exercising**.
-<br>
-<br>
-<br>
-REFERENCES
-1.	https://www.physio-pedia.com/Manual_Lymphatic_Drainage?ref=healthvery.com
-2.	https://vodderschool.com/emil_vodder_life_work_article
-3.	THE BOOK of LYMPH, Lisa Levitt Gainsley (Lymph through the ages on page 28)
-4.	https://lymphaticyoga.net/deep-breathing-and-the-lymphatic-system/
-5.	https://understoryhealing.com/exercises-for-lymphatic-system/
-6.	Myos Opleidingen, Utrecht - https://myosopleidingen.nl/cursus/manuele-lymfedrainage-vervolg-leerlijn-ii/
+"How do you feel now?"
+
 
 
 
