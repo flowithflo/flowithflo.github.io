@@ -12,7 +12,7 @@ Repeating the movements several times results in an increased flow rate that wil
 the excess fluids out of the tissue into the lymphatic pathways. 
 
 Lymph in Latin is as Lympha, it means clear water
-Lymph is as the unseen protector in our body, like the security guard, constantly checking the outside invaders as described in  [THE BOOK of LYMPH by Lisa Levitt Gainsley](https://www.thelymphaticmessage.com/book) flawlessly. 
+Lymph is as the unseen protector in our body, like the security guard, constantly checking the outside invaders as described in  [THE BOOK of LYMPH](https://www.thelymphaticmessage.com/book) flawlessly. 
 The lymphatic system is one of eleven organ systems in our body, it runs through like many small streams flowing towards a river. 
 It has a vast circulatory network and is second to our cardiovascular system. It is an integral part of our immune system as well as the nervous system, 
 the digestive system and the neurological system.
