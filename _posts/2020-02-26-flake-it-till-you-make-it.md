@@ -2,12 +2,13 @@
 layout: post
 title: Flow with Flora
 subtitle: ALWAYS feel LIKE IT IS THE splendid DAY OF YOUR life
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+#cover-img: /assets/img/path.jpg
+#thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
+#tags: [books, test]
+#author: Sharon Smith and Barry Simpson
 ---
+
 **NICE TO HAVE YOU HERE!** 
 
 I'm Flora & I'm passionate about Manuel Lymph Drainage by Dr. Vodder's method. 
