@@ -1,6 +1,6 @@
 ---
 layout: page
-title: It is with the subtile movements, in guiding your inner lymphatic stream back to its balance
+<h4>Heading level 4</h4> It is with the subtile movements, in guiding your inner lymphatic stream back to its balance
 subtitle: General information 
 ---
 ### Manuel lymph drainage
