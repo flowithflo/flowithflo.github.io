@@ -11,6 +11,6 @@ Lymfetherapie @ Myos Opleidingen 2024-2025
 <br>
   The method of Dr. Vodder’s Manual Lymph Drainage is my present training, aiming to become a certified lymphology therapist (by mid-April 2025). 
 
-Wellness massage @ Myos Opleidingen
+Wellness massage @ Myos Opleidingen 2024
 + Klassiek massage diploma 03-06-2024 
   (diversity of practical skills combine with supporting theoretical knowledge)
