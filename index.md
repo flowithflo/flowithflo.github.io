@@ -9,7 +9,7 @@ subtitle: Flow with Flora
 ---
 
 **NICE TO HAVE YOU HERE!** <br>
-To enhance our lymphatic function and improve our immune response optimistically. The goals is to promote our mind. body. and soul. to reconnect with our incredible inner being. The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
+To enhance our lymphatic function and improve our immune response optimal. The goals is to promote our mind. body. and soul. to reconnect with our incredible inner being. The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
 
 HELLO, I'm Flora!<br>
 I'm passionate about Manuel Lymph Drainage by Dr. Vodder's method.
