@@ -10,10 +10,10 @@ author: FLORA HUNG
 
 navbar-links:
   What is MLD?: "mld"
-  About Me: "aboutme"
-  Experiences: "experience"
-  Testimonials: "tesimonials"
-  Author's home: "https://flowithflo.github.io/"
+  About: "about"
+# Experiences: "experience"
+# Testimonials: "tesimonials"
+  Home: "https://flowithflo.github.io/"
 # Shop: "shop"
 
 ################
