@@ -9,8 +9,9 @@ subtitle: Flow with Flora
 ---
 
 **NICE TO HAVE YOU HERE!**
+To enhance our lymphatic function and improve our immune response optimistically. The goals is to promote our mind. body. and soul. to reconnect with our incredible inner being. The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
 
-I'm Flora.<br>
+HELLO, I'm Flora!<br>
 I'm passionate about Manuel Lymph Drainage by Dr. Vodder's method.
 
 Here I'm going to share with you what MLD is and what the benefits would bring for your inner network of all biological systems, an enhanced cordination between [Lymphoid System](https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s), immune system, neuroimmunity, endoocrine system, respiratory system, digestive system and much more. 
