@@ -13,8 +13,12 @@ To optimal our lymphatic function and improve our immune response.
 <br> The entrée to promote our mind. body. and soul. to reconnect with our incredible inner being. 
 <br> The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
 
-HELLO, I'm Flora!<br> Living in The Netherlands, born in Taiwan, teenlife raised in Canada and worked in China.
 **NICE TO HAVE YOU HERE!** 
+<br>
+
+HELLO, I'm Flora! <br>
+Living in The Netherlands, born in Taiwan, teenlife raised in Canada and worked in China.
+
 <br>
 THE PROCESS OF planting seeds AND habits <br>
 About 5 years ago, the aspiration engaged through my own self-care journey in manuel lymph drainage, After having followed a method of dry brushing for some years from Ayurvedic technique to improve my body's lymphatic flow, it shows not only neurological health advantages, immunity responses benefits and more. Like many others, through our own journey, chapters of life changes, I've siwtched career from an interior architecture designer to became a stay-at-home mum. The fresh discover of manuel lymph drainage (MLD) has led me keenly in further learning wanting to know how our lymphatic system works. I begain to dive in to do some reserach about the MLD and this so-discribed as 'sewerage system', the lymphatic system. I still could feel the feeling of being excited when I found out locally there is a functional education in welness, sports and thearpy. With out any doubts, I signed myself up for the very next available enrollment. That has been a year ago, now I'm more than half way through my diploma training promgram in lymphotherapy. Here, I'm excited to share with you what MLD is and what the benefits would bring for your inner network of all biological systems for an enhanced cordination between [Lymphoid System](https://www.youtube.com/watch?v=I7orwMgTQ5I&t=6s), immune system, neuroimmunity, endoocrine system, respiratory system, digestive system and much more. 
