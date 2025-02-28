@@ -6,8 +6,8 @@
 
 
 Lymfetherapie @ Myos Opleidingen 2024-2025
-+ Manuel Lymph drainage; basis (learning line I) 
-+ Manuel Lymph drainage: continued (learning line II)
++ Manual Lymph drainage; basis (learning line I) 
++ Manual Lymph drainage: continued (learning line II)
 + Kinesio tape for lymph drainage
 + LymfReflex© certificat 14-02-2025
 <br>
