@@ -12,7 +12,7 @@ It has led me keenly in further learning wanting to know how our lymphatic syste
 In 2024, I began two parallel studies in the program of lymph therapy  *[MYOS Opleidingen, the accredited training institute in Utrecht](https://myosopleidingen.nl/opleiding/lymfedrainage/)* and the program of basic medical knowledge, to widely broadening my horizon in human anatomy, physiology and pathology *[TCMA, Traditional Chinese Medicine Academie Nederland](https://tcma.nl/medische-basiskennis/)*. Both works hand in hand for a fuller deep understanding of how our body functions and how to work with for the best bet.
 <br>
 
-Aside from my studies, I am a volunteer at the ACCESS/Utrecht International Centre at the municipality of Utrecht assisting non-native speakers living in Utrecht.
+Aside from the current training, I am a volunteer at the ACCESS/Utrecht International Centre at the municipality of Utrecht assisting non-native speakers living in Utrecht.
 To keep myself in a good balance, any physical exercises such as stretching yoga, easy qigong, core pilates and racket sport are part self-care routins as well as my psychological needs in frequently visiting museums and spending time with my lovely family and friends!
 <br>
 
