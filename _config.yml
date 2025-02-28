@@ -12,7 +12,7 @@ navbar-links:
   MLD?: "mld"
   Mission: "https://flowithflo.github.io/"
   About: "about"
-# Experiences: "experience"
+  Experiences: "experience"
 # Testimonials: "tesimonials"
 # Shop: "shop"
 
