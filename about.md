@@ -13,7 +13,7 @@ In 2024, I began two parallel studies in the program of lymph therapy  *[MYOS Op
 <br>
 
 Aside from the current training and to keep myself in a good balance, any physical exercises such as stretching yoga, easy qigong, core pilates and racket sport are part the self-care routins as well as my psychological needs in frequently visiting museums and spending time with my lovely family and friends!
-<br> I also volunteer at the ACCESS/Utrecht International Centre at the municipality of Utrecht assisting non-native speakers living in Utrecht.
+<br> I love supporting [ACCESS/Utrecht International Centre](https://access-nl.org/partner/expat-center-utrecht/) at the municipality of Utrecht and assisting non-native speakers living in [Utrecht](https://www.discover-utrecht.com/).
 
 
 
