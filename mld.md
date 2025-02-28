@@ -32,10 +32,10 @@ Moving toxins through the body isn’t always comfortable at first since lymph w
 (Usually, the effect of lymphatic drainage lasts about 24 hours.) 
 A set of three treatments primarily, once in a week or ten days as sequence, allowing the ability to heal and your immune system to respond. 
 
-At home, a *[manuel lymphatic](https://www.physio-pedia.com/Manual_Lymphatic_Drainage?ref=healthvery.com)* improvment can be part of your daily routine simply by *[breathing deeply](https://lymphaticyoga.net/deep-breathing-and-the-lymphatic-system/)* (Inhale as expanding your belly and exhale to relaxing your belly, several times per day.)
+At home, a *[manuel lymphatic](https://www.physio-pedia.com/Manual_Lymphatic_Drainage?ref=healthvery.com)* improvment can be part of your daily routine simply by *[breathing deeply](https://lymphaticyoga.net/deep-breathing-and-the-lymphatic-system/)* 
 and *[exercising](https://understoryhealing.com/exercises-for-lymphatic-system/)*.
 
-"How do you feel now?"
+How do you feel now?
 
 
 
