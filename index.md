@@ -14,7 +14,7 @@ To optimal our lymphatic function and improve our immune response.
 <br> The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
 
 **NICE TO HAVE YOU HERE!** 
-HELLO, I'm Flora! <br>
+<br> HELLO, I'm Flora! <br>
 Living in The Netherlands, born in Taiwan, teenlife raised in Canada and worked in China.
 <br>
 
