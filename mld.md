@@ -3,7 +3,7 @@ layout: page
 title: It is with the subtile movements, in guiding your inner lymphatic stream back to its balance
 subtitle: Overview
 ---
-### Manuel lymph drainage
+### Manual lymph drainage
 Developed in 1930s, by *[Dr. Emil Voldder](https://vodderschool.com/emil_vodder_life_work_article)* (Danish physician). 
 <br>
 A very gentle form of slow method that is extremely light skin -stretch physiotherapy hand technique, 
