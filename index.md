@@ -1,16 +1,17 @@
 ---
 layout: page
 
-title: ALWAYS feel LIKE IT IS THE splendid DAY OF YOUR LIFE
+title: ALWAYS feel like today is the SPLENDID day
 subtitle: Flow with Flora
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
 ---
 
-**NICE TO HAVE YOU HERE!** <br>
-To enhance our lymphatic function and improve our immune response optimal. The goals is to promote our mind. body. and soul. to reconnect with our incredible inner being. The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
+To optimal our lymphatic function and improve our immune response. The goals is to promote our mind. body. and soul. to reconnect with our incredible inner being. The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
 
+**NICE TO HAVE YOU HERE!** 
+<br>
 HELLO, I'm Flora!<br>
 I'm passionate about Manuel Lymph Drainage by Dr. Vodder's method.
 
