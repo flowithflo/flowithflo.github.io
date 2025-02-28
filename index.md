@@ -29,6 +29,8 @@ So, let's GO with FLO-W!
 The FLOW of your inner stream!
 
 
-
+In 2024, I began two parallel studies in the program of lymph therapy  *[MYOS Opleidingen, the accredited training institute in Utrecht](https://myosopleidingen.nl/opleiding/lymfedrainage/)* and the program of basic medical knowledge, to widely broadening my horizon in human anatomy, physiology and pathology *[TCMA, Traditional Chinese Medicine Academie Nederland](https://tcma.nl/medische-basiskennis/)*. 
+Both works hand in hand for a fuller deep understanding of how our body functions and how to work with for the best bet.
+<br>
 
 
