@@ -11,9 +11,9 @@ author: FLORA HUNG
 navbar-links:
   MLD?: "mld"
   Mission: "https://flowithflo.github.io/"
-  About: "about"
+  # About: "about"
   Experiences: "experience"
-  Testimonials: "tesimonials"
+  # Testimonials: "tesimonials"
 # Shop: "shop"
 
 ################
