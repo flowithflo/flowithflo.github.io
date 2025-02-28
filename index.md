@@ -10,8 +10,8 @@ avatar: "/assets/img/flowithflow.jpg"
 ---
 
 To optimal our lymphatic function and improve our immune response. 
-The entrée to promote our mind. body. and soul. to reconnect with our incredible inner being. 
-The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
+<br> The entrée to promote our mind. body. and soul. to reconnect with our incredible inner being. 
+<br> The believe of self-care is one of the love languages in the physical form of loving yourself, even if it begins with a small-er step! 
 
 **NICE TO HAVE YOU HERE!** 
 <br>
