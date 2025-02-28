@@ -23,7 +23,7 @@ Following the drainage paths that lymphatic fluid will be collected by our bodyâ
 returning to the bloodstream near the neck at the left subclavian (lower collarbone) vein. These 500-600 filter stations 
 work continuously to prevent (reduce) harmful pathogens from forming in our body in our everyday life. 
 
-With the specific light pressure strokes apply for any conditions (normal people to pre-surgery and post-surgery patients) 
+With the specific light pressure strokes apply for most conditions (normal people to pre-surgery and post-surgery patients) 
 that almost everyone can benefit from it.
 A +/- 20 ~ 50 minutes-per-session is usually counselled as a first-time participant and gradually increases or decreases 
 the duration in the following sessions. Small adjustment may necessitate differently upon the time of your health condition. 
