@@ -15,7 +15,7 @@ To optimal our lymphatic function and improve our immune response.
 
 **NICE TO HAVE YOU HERE!** 
 <br> HELLO, I'm Flora! <br>
-Living in The Netherlands. Born in Taiwan and raised in Canada. Worked globally.
+Presently living in The Netherlands and working in foreign. Born in Taiwan and raised in Canada. 
 <br>
 
 **THE PROCESS OF PLANTING SEEDS AND HABITS** <br>
