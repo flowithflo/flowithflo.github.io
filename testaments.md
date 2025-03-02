@@ -1,7 +1,7 @@
 ---
 #layout: page
 #title: other says that ..
-subtitle: Flow with Flo
+#subtitle: Flow with Flo
 Happy Lymph = Healthier Immunity
 ---
 
@@ -12,7 +12,7 @@ OTHER SAYS THAT
 THANK YOU,
 with your support and being part of my learning journey as my models. 
 <br>This will not only enhance on my practical skills to perform specific techniques and as well as the theoretical expertise relating pathological conditions. 
-
+Let's Flow with Flora!
 
 
 
