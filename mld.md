@@ -8,7 +8,7 @@ Developed in 1930s, by *[Dr. Emil Voldder](https://vodderschool.com/emil_vodder_
 <br>
 A very gentle form of slow method that is extremely light skin -stretch physiotherapy hand technique, 
 which applies systematic and rhythmically with the pumping performance in one direction movement. 
-Repeating the gentel pressure movements several times will result in an increased flow rate that will improve the lymph vessels to promote 
+Repeating the gentel pressure movements several times result in an increased flow rate that will improve the lymph vessels to promote 
 the excess fluids out of the tissue into the lymphatic pathways. 
 
 "Lymph in Latin is as Lympha, it means clear water."
