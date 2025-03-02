@@ -22,5 +22,5 @@ Wellness massage @ Myos Opleidingen 2024
   (diversity of practical skills combine with supporting theoretical knowledge)
 
 
-Regularly re-training is planned to part be of my continuous professional developments with the purpose of keep up my expertise and to learn new techniques to be able to treat (future) patients with lymphoedema (swelling) & lipoedema (fatty tissue) issues. 
+Regularly re-training is planned to be part of my continuous professional developments with the purpose of keep up my expertise and to learn new techniques to be able to treat (future) patients with lymphoedema (swelling) & lipoedema (fatty tissue) issues. 
 
