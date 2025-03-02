@@ -27,7 +27,7 @@ Both works hand in hand for a fuller deep understanding of how our body function
 <br>
 
 Aside from the current training and to keep myself in a good balance, any physical exercises such as stretching yoga, easy qigong, core pilates and racket sport are part the self-care routins as well as my psychological needs in frequently visiting museums and spending time with my lovely family and friends!
-<br> I love supporting [ACCESS/Utrecht International Centre](https://access-nl.org/partner/expat-center-utrecht/) at the municipality of Utrecht and assisting non-native speakers living in [Utrecht](https://www.discover-utrecht.com/).<br>
+<br> I love being able to give back to the community and part of my volunteering is with [ACCESS/Utrecht International Centre](https://access-nl.org/partner/expat-center-utrecht/) at the municipality of Utrecht and assisting non-native speakers living in [Utrecht](https://www.discover-utrecht.com/).<br>
 
 I'd also like to share how you can help to take care of your lymph at home. I can also be reached for your MLD experience (the contact is in below).
 
