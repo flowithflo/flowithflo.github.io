@@ -1,7 +1,8 @@
 ---
 #layout: page
 #title: other says that ..
-subtitle: Happy Lymph = Healthier Immunity
+subtitle: let’s Flow with Flo
+Happy Lymph = Healthier Immunity
 ---
 
 OTHER SAYS THAT
@@ -10,8 +11,8 @@ OTHER SAYS THAT
 
 THANK YOU,
 with your support and being part of my learning journey as my models. 
-<br>This will not only enhance on my theoretical expertise relating to the lymphatic system but also as well as practical skills to perform specific techniques. 
-<br>I hope you are looking forward to get your first MLD & let’s flow with Flo 
+<br>This will not only enhance on my practical skills to perform specific techniques and as well as the theoretical expertise relating pathological conditions. 
+
 
 
 
