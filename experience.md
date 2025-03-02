@@ -20,3 +20,7 @@ Medische Basiskennis (MBK) @ TMCA 2024- 2025
 Wellness massage @ Myos Opleidingen 2024
 + Klassiek massage diploma 03-06-2024 
   (diversity of practical skills combine with supporting theoretical knowledge)
+
+
+Regularly re-training is planned to part of my continuous professional developments with the purpose of keep up my expertise and to learn new techniques to be able to treat (future) patients with lymphoedema (swelling) & lipoedema (fatty tissue) issues. 
+
