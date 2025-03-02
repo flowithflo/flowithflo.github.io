@@ -1,7 +1,7 @@
 ---
 layout: page
-title: It is with the subtile movements, in guiding your inner lymphatic stream back to its balance
-subtitle: Overview
+title: Overview
+subtitle: It is with the subtile movements, in guiding your inner lymphatic stream back to its balance
 ---
 ### Manual lymph drainage
 Developed in 1930s, by *[Dr. Emil Voldder](https://vodderschool.com/emil_vodder_life_work_article)* (Danish physician). 
