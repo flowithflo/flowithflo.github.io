@@ -8,12 +8,12 @@ Developed in 1930s, by *[Dr. Emil Voldder](https://vodderschool.com/emil_vodder_
 <br>
 A very gentle form of slow method that is extremely light skin -stretch physiotherapy hand technique, 
 which applies systematic and rhythmically with the pumping performance in one direction movement. 
-Repeating the movements several times results in an increased flow rate that will improve the lymph vessels to promote 
+Repeating the gentel pressure movements several times will result in an increased flow rate that will improve the lymph vessels to promote 
 the excess fluids out of the tissue into the lymphatic pathways. 
 
 "Lymph in Latin is as Lympha, it means clear water."
 Lymph is as the unseen protector in our body, like the security guard, constantly checking the outside invaders as described in  *[THE BOOK of LYMPH](https://www.thelymphaticmessage.com/book)* flawlessly. 
-The lymphatic system is one of eleven organ systems in our body, it runs through like many small streams flowing towards a river. 
+The [lymphatic system](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/lymphatic-system) is one of eleven organ systems in our body, it runs through like many small streams flowing towards a river. 
 It has a vast circulatory network and is second to our cardiovascular system. It is an integral part of our immune system as well as the nervous system, 
 the digestive system and the neurological system.
 
