@@ -1,7 +1,7 @@
 ---
 #layout: page
 #title: other says that ..
-subtitle: let’s Flow with Flo
+subtitle: Flow with Flo
 Happy Lymph = Healthier Immunity
 ---
 
