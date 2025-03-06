@@ -33,8 +33,7 @@ Both works hand in hand for a fuller deep understanding of how our body function
 Aside from the current training and to keep myself in a good balance, any physical exercises such as stretching Yoga, easy Qigong, core Pilates and racket sport are part the self-care routines as well as my psychological needs in frequently visiting museums and spending time with my lovely family and friends!
 <br> I love being able to give back to the community and part of my volunteering is with [ACCESS/Utrecht International Centre](https://access-nl.org/partner/expat-center-utrecht/) at the municipality of Utrecht and assisting non-native speakers living in [Utrecht](https://www.discover-utrecht.com/).<br>
 
-Share with me if our self-care journey is aliened, I’m delightful to hear from you! (the contact is in below)
-
+Share with me if our self-care journey is aliened, I’m delightful to hear from you! 
 <br>
 So, let's GO with FLO-W! 
 <br>
