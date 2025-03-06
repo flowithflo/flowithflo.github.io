@@ -2,7 +2,7 @@
 layout: page
 
 title: ALWAYS feel like today is the SPLENDID day
-subtitle: Flow with Flora
+subtitle: 
 avatar: "/assets/img/flowithflow.jpg"
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
