@@ -14,7 +14,7 @@ author: FLORA HUNG
 navbar-links:
   MLD?: "mld"
   Testimonials: "testimonials"
-  Journey: "https://flowithflo.github.io/"
+  # Journey: "https://flowithflo.github.io/"
   # About: "about"
   Experiences: "experience"
 # Shop: "shop"
