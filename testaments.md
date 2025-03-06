@@ -14,7 +14,7 @@ OTHER SAYS THAT
 
 THANK YOU,
 with your support and being part of my learning journey as my models. 
-<br>This will not only enhance on my practical skills to perform specific techniques and as well as the theoretical expertise relating pathological conditions. 
+<br>This will not only enhance on my practical skills to perform specific techniques and as well as the theoretical expertise relating pathological conditions. please feel free to pass on the good deeds. 
 Let's Flow with Flora!
 
 
